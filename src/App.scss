@@ -15,4 +15,13 @@ body {
 	section.emulation {
 		font-family: 'Courier New', Courier, monospace;
 	}
+
+	.loggedIn {
+		background-color: lightgreen;
+		color: darkgreen;
+	}
+	.loggedOut {
+		background-color: #555;
+		color: tomato;
+	}
 }
